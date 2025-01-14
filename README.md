@@ -1,6 +1,3 @@
-<p align="center"> 
-    <img src="./doc/images/logo-manifest.png" align="center" height="150"></img>
-</p>
 
 <h1 align="center">React Awesome Loaders</h1> 
 <h3 align="center"> 🚀 High quality, super responsive and </br> completely customisable Loading Animations. </h3>
